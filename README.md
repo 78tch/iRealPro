@@ -54,9 +54,9 @@
 2. ビデオチュートリアル（Android）: https://www.irealpro.com/video-tutorials/android
 3. ビデオチュートリアル（iPhone&iPad）: https://www.irealpro.com/video-tutorials/ios
 4. ビデオチュートリアル（Mac）: https://www.irealpro.com/video-tutorials/mac
-5. https://technimo.helpshift.com/hc/en/3-ireal-pro/faq/88-chord-symbols-used-in-ireal-pro/?p=android
-6. https://technimo.helpshift.com/hc/en/3-ireal-pro/faq/245-editor-s-buttons/?p=android
-7. https://technimo.helpshift.com/hc/en/3-ireal-pro/faq/100-repeat-endings-texts-d-s-d-c-al-coda/?p=android
+5. Chord symbols: https://technimo.helpshift.com/hc/en/3-ireal-pro/faq/88-chord-symbols-used-in-ireal-pro/?p=android
+6. Editor's Buttons: https://technimo.helpshift.com/hc/en/3-ireal-pro/faq/245-editor-s-buttons/?p=android
+7. Repeat endings & texts: https://technimo.helpshift.com/hc/en/3-ireal-pro/faq/100-repeat-endings-texts-d-s-d-c-al-coda/?p=android
 
 ## 6.詳しくて参考になるサイト
 1. https://koyonoto.jp/category/ireal-pro-howto/
