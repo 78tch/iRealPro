@@ -31,8 +31,8 @@
 
 ## 2.繰り返し記号による進行の例
 1. [ABAC](irealb://RepeatMark01%3DComposer%20Unknown%3D%3DMedium%20Swing%3DC%3D0%3D1r34LbKcu7%5BT44AXyQ%7CN1BXyQ%7D%7CN2CXyQZ%20%3DJazz-Medium%20Swing%3D120%3D3)
-2. [ABA]()
-3. [ABACA]()
+2. ABA
+3. ABACA
 4. [ABACAD](irealb://RepeatMark04%3DComposer%20Unknown%3D%3DMedium%20Swing%3DC%3D0%3D1r34LbKcu7%5BT44AXyQ%7CN1BXyQ%7D%7CN2CXyQ%7D%7CN3DXyQ%5D%20%3DJazz-Medium%20Swing%3D120%3D1)
 5. [ABACADA]()
 6. ABA
