@@ -1,4 +1,5 @@
 # iRealPro
+[戻る](./README.md)  
 繰り返し記号を使えば、楽譜が簡潔になり、暗譜もしやすくなる。
 
 ## 1.繰り返し記号
@@ -37,3 +38,6 @@
 6. ABA
 7. ABAC ABAC ABAC ABAD
 8. 
+  
+  
+[戻る](./README.md) 
