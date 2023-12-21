@@ -53,3 +53,7 @@
 2. ビデオチュートリアル（Android）: https://www.irealpro.com/video-tutorials/android
 3. ビデオチュートリアル（iPhone&iPad）: https://www.irealpro.com/video-tutorials/ios
 4. ビデオチュートリアル（Mac）: https://www.irealpro.com/video-tutorials/mac
+
+## 6.詳しくて参考になるサイト
+1. https://koyonoto.jp/category/ireal-pro-howto/
+2. https://miseruit.com/category/%e9%9f%b3%e6%a5%bd%e5%ae%a4/ireal-pro/
