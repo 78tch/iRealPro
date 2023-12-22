@@ -32,7 +32,8 @@
 ## 2.繰り返し記号による進行の例
 |No.|Mark|images|Memo|
 |---|---|---|---|
-|1|リピート記号<br>再生順「ABAB ABAB ABAB」|<img src="images/001.png" alt="image">|リピート記号により「AB」が繰り返され、「3x」により曲が3回繰り返される。<br>これにより、結果的に「AB」が6回演奏される。|
+|1|リピート<br>再生順「ABAB ABAB ABAB」|<img src="images/001.png" alt="image">|リピート記号により「AB」が繰り返され、「3x」により曲が3回繰り返される。<br>これにより、結果的に「AB」が6回演奏される。|
+|2|１番かっこ、２番かっこ<br>再生順「ABC ABD」|<img src="images/002.png" alt="image">|最初は１番かっこのリピートまで演奏され、曲の最初に戻り、２回目に１番かっこの場所まできたら、２番かっこが演奏される。「1x」により曲は繰り返されない。<br>これにより、結果的に「ABC ABD」が1回演奏される。|
 |||||
 
 1. [ABAC](irealb://RepeatMark01%3DComposer%20Unknown%3D%3DMedium%20Swing%3DC%3D0%3D1r34LbKcu7%5BT44AXyQ%7CN1BXyQ%7D%7CN2CXyQZ%20%3DJazz-Medium%20Swing%3D120%3D3)
