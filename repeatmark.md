@@ -32,7 +32,7 @@
 ## 2.繰り返し記号による進行の例
 |No.|Mark|images|Memo|
 |---|---|---|---|
-|1|リピート|<img src="images/001.png" alt="image">|再生順：<br>「ABAB ABAB ABAB」<br>リピート記号により「AB」が繰り返され、「3x」により曲が3回繰り返される。<br>これにより、結果的に「AB」が6回演奏される。|
+|1|リピート|<img src="images/001.png" alt="image">|再生順：<br>「ABAB ABAB ABAB」<br>リピート記号により「B」のあと曲の最初に戻り、「3x」により曲が3回繰り返される。<br>これにより、結果的に「AB」が6回演奏される。|
 |2|１番かっこ、２番かっこ|<img src="images/002.png" alt="image">|再生順：<br>「ABC ABD」<br>最初は１番かっこのリピートまで演奏され、曲の最初に戻り、２回目に１番かっこの場所まできたら、２番かっこが演奏される。「1x」により曲は繰り返されない。<br>これにより、結果的に「ABC ABD」が1回演奏される。|
 |3|ダ・カーポ<br>D.C. al Fine|<img src="images/003.png" alt="image">|再生順：<br>「ABAB ABAB」<br>ダ・カーポにより「B」のあと曲の最初まで戻り、「2x」により曲が2回繰り返される。<br>これにより、結果的に「AB」が4回演奏される。|
 |4|ダル・セーニョ<br>D.S. al Fine|<img src="images/004.png" alt="image">|再生順：<br>「ABB ABB ABB」<br>ダル・セーニョにより「B」のあとセーニョまで戻り、「3x」により曲が3回繰り返される。<br>これにより、結果的に「ABB」が3回演奏される。|
