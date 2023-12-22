@@ -5,7 +5,7 @@
 ## 1.繰り返し記号
 |No.|曲名|images|Memo|
 |---|---|---|---|
-|1|Afro 1|<img src="images/01.png" alt="image">|あああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああ|
+|1|Afro 1<br>110bpm<br>3x<br>C<br>Jazz-Afro 12/8|<img src="images/01.png" alt="image">|あああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああ|
 |2|Afro 2|<img src="images/02.png" alt="image">|1|
 |3|Ballad 1|<img src="images/03.png" alt="image">|1|
 |4|Ballad 2|<img src="images/04.png" alt="image">|1|
