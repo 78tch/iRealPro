@@ -2,6 +2,11 @@
 コード進行を入力して「テンポ」や曲調の「スタイル」を指定すると、自動でバッキング演奏してくれるソフト。  
 使い方のコツをまとめます。  
   
+
+1. コード記号や構成音の一覧は[こちら](./cordsymbols.md)
+2. 繰り返し記号や実際の進行の例の一覧は[こちら](./repeatmark.md)
+3. 最初から入っている曲（ライブラリ）の一覧は[こちら](./library.md)
+
 ## 1.概要
 1. App Store版（iPhone&iPad用）、Google Play版（Android 用）、amazon appstore版（Fire タブレット、Windows用）、Mac 用、の４種類があります。これらは、購入情報が共有されないので、それぞれ個別に買う必要があります。
 2. Windows用、というのはないので、Windowsパソコンでは、amazon appstore 版を使います。Windowsパソコンに「Amazonアプリストア」アプリをインストールし、そのなかでiRealPro を購入して開くと、Fire タブレット 用のiRealPro がWindows 上で動きます。  https://blogs.windows.com/windows-insider/2021/10/20/introducing-android-apps-on-windows-11-to-windows-insiders/
