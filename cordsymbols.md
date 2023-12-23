@@ -46,7 +46,7 @@
 |38|7♯11|C7♯11||<img src="images/C7♯11p.png" alt="image">|1,M3,m7,♯11|
 |39|7♭5|C7b5||<img src="images/C7♭5p.png" alt="image">|1,M3,♭5,m7|
 |40|7♯5|C7♯5||<img src="images/C7♯5p.png" alt="image">|1,M3,♯5,m7|
-|41|9♯11|C9♯11||<img src="images/C7♯11p.png" alt="image">||
+|41|9♯11|C9♯11||<img src="images/C9♯11p.png" alt="image">|1,M3,m7,|
 |42|9♭5|C9b5||<img src="images/C9♭5p.png" alt="image">||
 |43|9♯5|C9♯5||<img src="images/C9♯5p.png" alt="image">||
 |44|7♭13|C7b13||<img src="images/C7♭13p.png" alt="image">||
