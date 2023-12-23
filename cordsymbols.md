@@ -29,7 +29,7 @@
 |21|∆7♯11|C^7♯11||<img src="images/C∆7♯11p.png" alt="image">|1,M3,M7,♯11|
 |22|∆9♯11|C^9♯11||<img src="images/C∆9♯11p.png" alt="image">|(1),M3,M7,M9,♯11|
 |23|∆7♯5|C^7♯5||<img src="images/C∆7♯5p.png" alt="image">|1,M3,♯5,M7|
-|24|-6|C-6||<img src="images/C-6p.png" alt="image">||
+|24|-6|C-6||<img src="images/C-6p.png" alt="image">|1,m3,P5,M6|
 |25|-6/9|C-69||<img src="images/C-69p.png" alt="image">||
 |26|-∆7|C-^7||<img src="images/C-∆7p.png" alt="image">||
 |27|-∆9|C-^9||<img src="images/C-∆9p.png" alt="image">||
