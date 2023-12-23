@@ -18,8 +18,8 @@
 |10|∆7|C^7|メジャーセブン|<img src="images/C∆7p.png" alt="image">|1,M3,P5,M7|
 |11|-7|C-7|マイナーセブン|<img src="images/C-7p.png" alt="image">|1,m3,P5,m7|
 |12|7|C7|セブン|<img src="images/C7p.png" alt="image">|1,M3,P5,m7|
-|13|7sus|C7sus|セブンサスフォー||
-|14|ø7|Cø7|||
+|13|7sus|C7sus|セブンサスフォー|<img src="images/C7susp.png" alt="image">|1,P4,P5,m7|
+|14|ø7|Cø7|ハーフディミニッシュセブン|<img src="images/Cø7p.png" alt="image">|1,m3,♭5,m7|
 |15|o7|Co7|||
 |16|o∆7|Co^7|||
 |17|∆9|C^9|||
