@@ -23,7 +23,7 @@
 |15|o7|Co7|ディミニッシュセブン|<img src="images/Co7p.png" alt="image">|1,m3,♭5,♭7|
 |16|o∆7|Co^7|ディミニッシュメジャーセブン|<img src="images/Co∆7p.png" alt="image">|1,m3,♭5,M7|
 |17|∆9|C^9|メジャーナイン|<img src="images/C∆9p.png" alt="image">|(1),M3,P5,M7,M9|
-|18|∆13|C^13||<img src="images/C∆13p.png" alt="image">|(1),M2,M3,M7,M13|
+|18|∆13|C^13||<img src="images/C∆13p.png" alt="image">|(1),M3,M7,M9,M13|
 |19|6|C6||<img src="images/C6p.png" alt="image">|1,M3,P5,M6|
 |20|6/9|C69||<img src="images/C69p.png" alt="image">|(1),M3,M6,M9|
 |21|∆7♯11|C^7♯11||<img src="images/C∆7♯11p.png" alt="image">|1,M3,M7,♯11|
