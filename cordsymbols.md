@@ -63,7 +63,7 @@
 |55|13♯11|C13♯11||<img src="images/C13♯11p.png" alt="image">||
 |56|13♭9|C13b9||<img src="images/C13♭9p.png" alt="image">||
 |57|13♯9|C13♯9||<img src="images/C13♯9p.png" alt="image">||
-|58|7♭9sus|C7b9sus||<img src="images/C7♭9sus.png" alt="image">||
+|58|7♭9sus|C7b9sus||<img src="images/C7♭9susp.png" alt="image">||
 |59|7susadd3|C7susadd3||<img src="images/C7susadd3p.png" alt="image">||
 |60|9sus|C9sus||<img src="images/C9susp.png" alt="image">||
 |61|13sus|C13sus||<img src="images/C13susp.png" alt="image">||
