@@ -6,7 +6,7 @@
 
 |No.|ボタン|iRealPro記法|Piano|コード名|構成音|
 |---|---|---|---|---|---|
-|1|5|5|<img src="images/C5.png" alt="image">|||
+|1|5|5|<img src="images/C5p.png" alt="image">|||
 |2|2|2|||
 |3|add9|add9|||
 |4|+|+|||
