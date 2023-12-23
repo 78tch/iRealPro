@@ -30,8 +30,10 @@
 
 
 ## 2.繰り返し記号による進行の例
-[hoge][1]
-[1]:irealb://Simile%3DComposer%20Unknown%3D%3DMedium%20Swing%3DC%3D0%3D1r34LbKcu7%5BAXyQ%7CBXyQKcl%20LZ%20%20xLZCXyQ%7CDXyQ%7CXyQr%7CXyQ%20%7C%20%3DJazz-Medium%20Swing%3D120%3D1  
+[hoge][1]  
+[1]:https://github.com/78tch/iRealPro/blob/main/repeatmark.md
+
+irealb://Simile%3DComposer%20Unknown%3D%3DMedium%20Swing%3DC%3D0%3D1r34LbKcu7%5BAXyQ%7CBXyQKcl%20LZ%20%20xLZCXyQ%7CDXyQ%7CXyQr%7CXyQ%20%7C%20%3DJazz-Medium%20Swing%3D120%3D1  
   
 |No.|Mark|images|Memo|
 |---|---|---|---|
