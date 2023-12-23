@@ -4,7 +4,7 @@
 
 ## 1.コード記号一覧
 
-|No.|ボタン|iRealPro記法例|読み方|Piano|構成音|
+|No.|ボタン|文字入力|読み方|Piano|構成音|
 |---|---|---|---|---|---|
 |1|5|C5|パワーコード|<img src="images/C5p.png" alt="image">|1,P5|
 |2|2|C2||<img src="images/C2p.png" alt="image">|1,M2,P5|
