@@ -35,7 +35,7 @@
 |1|[小節のシミレ](./html/Simile.html)|<img src="images/simile.png" alt="image">|再生順：<br>「ABBB CDCD」<br>１小節を繰り返すには「%」、２小節を繰り返すには「x」。「%」は、1小節4マスの場合、2マス目に置くと収まりがよい。「x」は1小節目の最後のマス（拍）に置く。|
 |2|[リピート](./html/Repeat.html)|<img src="images/repeat.png" alt="image">|再生順：<br>「ABAB ABAB ABAB」<br>リピート（右）まで行くと、リピート（左）に戻る。曲の最初に戻る場合は、リピート（左）は省略されることもある。「3x」により曲が3回繰り返される。<br>これにより、結果的に「AB」が合計6回演奏される。|
 |3|[１番かっこ、２番かっこ](./html/1stEnding2ndEnding.html)|<img src="images/1stEnding2ndEnding.png" alt="image">|再生順：<br>「ABC BD BE ABC BD BE ABC BD BE」<br>最初は１番かっこのリピート（右）まで演奏され、リピート（左）に戻り、２回目に１番かっこの場所まできたら、２番かっこに飛び、リピート（右）まで演奏されたらリピート（左）に戻り、２回目に１番かっこの場所まできたら、３番かっこに飛ぶ。「3x」により曲が3回繰り返される。<br>これにより、「ABC BD BE」が3回演奏される。|
-|4|[コーダ](./html/Coda.html)|<img src="images/Coda.png" alt="image">|再生順：<br>「ABC ABC ABD」<br>曲の繰り返し回数の最後の繰り返しの回でだけ、コーダの場所からもうひとつのコーダの場所まで飛ぶ。コーダを入れる場所は、Bは最後のマス（拍）、Dは小節の前のマス（拍）。|
+|4|[コーダ](./html/Coda.html)|<img src="images/Coda.png" alt="image">|再生順：<br>「ABC ABC ABD」<br>曲の繰り返しが3回に設定してあり、3回目（曲の繰り返し回数の最後の繰り返しの回）でだけ、コーダの場所からもうひとつのコーダの場所まで飛ぶ。コーダを入れる場所は、Bは最後のマス（拍）、Dは小節の前のマス（拍）。|
 |5||||
 |6||||
 |7||||
@@ -43,14 +43,7 @@
 |9||||
 |10||||
 
-1. [ABAC](irealb://RepeatMark01%3DComposer%20Unknown%3D%3DMedium%20Swing%3DC%3D0%3D1r34LbKcu7%5BT44AXyQ%7CN1BXyQ%7D%7CN2CXyQZ%20%3DJazz-Medium%20Swing%3D120%3D3)
-2. ABA
-3. ABACA
-4. [ABACAD](irealb://RepeatMark04%3DComposer%20Unknown%3D%3DMedium%20Swing%3DC%3D0%3D1r34LbKcu7%5BT44AXyQ%7CN1BXyQ%7D%7CN2CXyQ%7D%7CN3DXyQ%5D%20%3DJazz-Medium%20Swing%3D120%3D1)
-5. [ABACADA]()
-6. ABA
-7. ABAC ABAC ABAC ABAD
-8. 
+
   
   
 [戻る](./README.md) 
