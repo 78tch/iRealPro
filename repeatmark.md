@@ -30,9 +30,6 @@
 
 
 ## 2.繰り返し記号による進行の例
-[hoge][1]  
-[1]:irealb://Simile%3DComposer%20Unknown%3D%3DMedium%20Swing%3DC%3D0%3D1r34LbKcu7%5BAXyQ%7CBXyQKcl%20LZ%20%20xLZCXyQ%7CDXyQ%7CXyQr%7CXyQ%20%7C%20%3DJazz-Medium%20Swing%3D120%3D1  
-  
 |No.|Mark|images|Memo|
 |---|---|---|---|
 |1|<a href="irealb://Simile%3DComposer%20Unknown%3D%3DMedium%20Swing%3DC%3D0%3D1r34LbKcu7%5BAXyQ%7CBXyQKcl%20LZ%20%20xLZCXyQ%7CDXyQ%7CXyQr%7CXyQ%20%7C%20%3DJazz-Medium%20Swing%3D120%3D1">小節のシミレ</a>|<img src="images/simile.png" alt="image">|再生順：<br>「ABBB CDCD」<br>１小節を繰り返すには「%」、２小節を繰り返すには「x」。「%」は、1小節4マスの場合、2マス目に置くと収まりがよい。「x」は1小節目の最後のマス（拍）に置く。|
