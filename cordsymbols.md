@@ -14,7 +14,7 @@
 |6|ø|Cø|ハーフディミニッシュ|<img src="images/Cøp.png" alt="image">|1,m3,♭5,m7|
 |7|sus|Csus|サスフォー|<img src="images/Csusp.png" alt="image">|1,P4,P5|
 |8|∆|C^|メジャーセブン|<img src="images/C∆p.png" alt="image">|1,M3,P5,M7|
-|9|-|C-|マイナー||
+|9|-|C-|マイナー|<img src="images/C-p.png" alt="image">|1,m3,P5|
 |10|∆7|C^7|メジャーセブン||
 |11|-7|C-7|マイナーセブン||
 |12|7|C7|セブン||
