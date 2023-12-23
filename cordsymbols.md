@@ -20,7 +20,7 @@
 |12|7|C7|セブン|<img src="images/C7p.png" alt="image">|1,M3,P5,m7|
 |13|7sus|C7sus|セブンサスフォー|<img src="images/C7susp.png" alt="image">|1,P4,P5,m7|
 |14|ø7|Cø7|ハーフディミニッシュセブン|<img src="images/Cø7p.png" alt="image">|1,m3,♭5,m7|
-|15|o7|Co7|||
+|15|o7|Co7|ディミニッシュセブン|<img src="images/Co7p.png" alt="image">|1,m3,♭5,♭7|
 |16|o∆7|Co^7|||
 |17|∆9|C^9|||
 |18|∆13|C^13|||
