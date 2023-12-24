@@ -37,7 +37,7 @@
 |3|[１番かっこ、２番かっこ](./html/1stEnding2ndEnding.html)|<img src="images/1stEnding2ndEnding.png" alt="image">|再生順：<br>「ABC BD BE 」が3x<br>最初は１番かっこのリピート（右）まで演奏され、リピート（左）に戻り、２回目に１番かっこの場所まできたら、２番かっこに飛び、リピート（右）まで演奏されたらリピート（左）に戻り、２回目に１番かっこの場所まできたら、３番かっこに飛ぶ。「3x」により曲が3回繰り返される。<br>これにより、「ABC BD BE」が3回演奏される。|
 |4|[コーダ](./html/Coda.html)|<img src="images/Coda.png" alt="image">|再生順：<br>「ABC ABC ABD」<br>曲の繰り返しが3回に設定してあり、3回目の繰り返し（繰り返しの最後）で、コーダの場所からもうひとつのコーダの場所まで飛ぶ（B -> D）。繰り返しの１回目や２回目ではコーダは無視される。コーダを入れる場所は、Bは最後のマス（拍）、Dは小節の前のマス（拍）。|
 |5|[D.C. al Coda](./html/DCalCoda.html)|<img src="images/DCalCoda.png" alt="image">|再生順：<br>「ABCD ABE」<br>D.C. で曲の最初に戻り、コーダの場所からもうひとつのコーダの場所まで飛ぶ。|
-|6|[D.C. al Fine](./html/Fine.html)|<img src="images/fine.png" alt="image">|再生順：<br>「ABCAB ABCAB ABCAB」<br>D.C. で曲の最初に戻り、Fineのところで終わる。|
+|6|[D.C. al Fine](./html/Fine.html)|<img src="images/fine.png" alt="image">|再生順：<br>「ABCAB」が3x<br>D.C. で曲の最初に戻り、Fineのところで終わる。|
 |7|D.C. al 1st End.||再生順：<br>「　 　」<br>D.C. で曲の最初に戻り、１番かっこを演奏してその回は終わる。|
 |8|D.C. al 2nd End.||再生順：<br>「　 　」<br>D.C. で曲の最初に戻り、２番かっこを演奏してその回は終わる。|
 |9|D.C. al 3rd End.||再生順：<br>「　 　」<br>D.C. で曲の最初に戻り、３番かっこを演奏してその回は終わる。|
