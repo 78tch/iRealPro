@@ -33,8 +33,8 @@
 |No.|Mark|images|Memo|
 |---|---|---|---|
 |1|[小節のシミレ](./html/Simile.html)|<img src="images/simile.png" alt="image">|再生順：<br>「ABBB CDCD」<br>１小節を繰り返すには「%」、２小節を繰り返すには「x」。「%」は、1小節4マスの場合、2マス目に置くと収まりがよい。「x」は1小節目の最後のマス（拍）に置く。|
-|2|[リピート](./html/Repeat.html)|<img src="images/repeat.png" alt="image">|再生順：<br>「ABAB」が3x<br>リピート（右）まで行くと、リピート（左）に戻る。曲の最初に戻る場合は、リピート（左）は省略されることもある。「3x」により曲が3回繰り返される。<br>これにより、結果的に「AB」が合計6回演奏される。|
-|3|[１番かっこ、２番かっこ](./html/1stEnding2ndEnding.html)|<img src="images/1stEnding2ndEnding.png" alt="image">|再生順：<br>「ABC BD BE 」が3x<br>最初は１番かっこのリピート（右）まで演奏され、リピート（左）に戻り、２回目に１番かっこの場所まできたら、２番かっこに飛び、リピート（右）まで演奏されたらリピート（左）に戻り、２回目に１番かっこの場所まできたら、３番かっこに飛ぶ。「3x」により曲が3回繰り返される。<br>これにより、「ABC BD BE」が3回演奏される。|
+|2|[反復記号](./html/Repeat.html)|<img src="images/repeat.png" alt="image">|再生順：<br>「ABAB」が3x<br>反復記号（右）まで行くと、反復記号（左）に戻る。曲の最初に戻る場合は、反復記号（左）は省略されることもある。「3x」により曲が3回繰り返される。<br>これにより、結果的に「AB」が合計6回演奏される。|
+|3|[１番かっこ、２番かっこ](./html/1stEnding2ndEnding.html)|<img src="images/1stEnding2ndEnding.png" alt="image">|再生順：<br>「ABC BD BE 」が3x<br>最初は１番かっこの反復記号（右）まで演奏され、反復記号（左）に戻り、２回目に１番かっこの場所まできたら、２番かっこに飛び、反復記号（右）まで演奏されたら反復記号（左）に戻り、２回目に１番かっこの場所まできたら、３番かっこに飛ぶ。「3x」により、「ABC BD BE」が3回演奏される。|
 |4|[コーダ](./html/Coda.html)|<img src="images/Coda.png" alt="image">|再生順：<br>「ABC ABC ABD」<br>曲の繰り返しが3回に設定してあり、3回目の繰り返し（繰り返しの最後）で、コーダの場所からもうひとつのコーダの場所まで飛ぶ（B -> D）。繰り返しの１回目や２回目ではコーダは無視される。コーダを入れる場所は、Bは最後のマス（拍）、Dは小節の前のマス（拍）。|
 |5|[D.C. al Coda](./html/DCalCoda.html)|<img src="images/DCalCoda.png" alt="image">|再生順：<br>「ABCD ABE」<br>D.C. で曲の最初に戻り、コーダの場所からもうひとつのコーダの場所まで飛ぶ。|
 |6|[D.C. al Fine](./html/Fine.html)|<img src="images/fine.png" alt="image">|再生順：<br>「ABCAB」が3x<br>D.C. で曲の最初に戻り、Fineのところで終わる。|
