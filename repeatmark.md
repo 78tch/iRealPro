@@ -42,7 +42,7 @@
 |8|[D.C. al 2nd End.](./html/Rdcal2ndend.html)|<img src="images/Rdcal2ndend.png" alt="image">|再生順：<br>「AB AC AD AC」<br>D.C. で曲の最初に戻り、２番かっこを演奏してFineで終わる。|
 |9|D.C. al 3rd End.||楽譜例がつくれず。|
 |10|[D.S. al Coda](./html/Rdsalcoda.html)|<img src="images/Rdsalcoda.png" alt="image">|再生順：<br>「ABCD BCDE」<br>D.C. でセーニョまでもどり、コーダの場所からもうひとつのコーダの場所まで飛ぶ。|
-|11|D.S. al Fine||再生順：<br>「   」<br>D.C. でセーニョまでもどり、Fineで終わる。|
+|11|[D.S. al Fine](./html/Rdsalfine.html)|<img src="images/Rdsalfine.png" alt="image">|再生順：<br>「ABCD BC」<br>D.C. でセーニョまでもどり、Fineで終わる。|
 |12|D.S. al 1st End.||再生順：<br>「   」<br>D.C. でセーニョまでもどり、１番かっこを演奏してFineで終わる。|
 |13|D.S. al 2nd End.||再生順：<br>「   」<br>D.C. でセーニョまでもどり、２番かっこを演奏してFineで終わる。|
 |14|D.S. al 3rd End.||再生順：<br>「   」<br>D.C. でセーニョまでもどり、３番かっこを演奏してFineで終わる。|
