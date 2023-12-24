@@ -54,10 +54,10 @@
 23. 「 |」:小節線（右）
 
 ## 4.特に掘り下げて
-1. [コード記号](./cordsymbols.md)
-2. [繰り返し記号と、繰り返し記号による進行の例](./repeatmark.md)
-3. [ライブラリーに最初から入っている曲](./library.md)
-
+1. コード記号や構成音の一覧は[こちら](./cordsymbols.md)
+2. 繰り返し記号や実際の進行の例の一覧は[こちら](./repeatmark.md)
+3. 最初から入っている「練習曲50曲」の一覧は[こちら](./library.md)
+  
 ## 5.公式情報源
 1. FAQ: https://www.irealpro.com/support
 2. ビデオチュートリアル（Android）: https://www.irealpro.com/video-tutorials/android
