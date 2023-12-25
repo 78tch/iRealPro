@@ -11,7 +11,7 @@
 |4|coda|１回目は素通りし、リピートやダ・カーポ、ダル・セーニョで戻ったあと、２回目にここまで来たら、次のヴィーデ（vide）またはコーダ（集結部）まで飛ぶ。|
 |5|segno|ダル・セーニョで、ここまで戻る|
 |6|fermata|「D.C.」や「D.S.」で戻ったあと、演奏終了。「Fine」と、「複重線上のフェルマータ」は同じ意味。|
-|7|END|https://technimo.helpshift.com/hc/en/3-ireal-pro/faq/124-end-symbol/?p=android|
+|7|END|演奏が終了する小節に置く。演奏者の目印。 https://technimo.helpshift.com/hc/en/3-ireal-pro/faq/124-end-symbol/?p=android|
 |8|D.C. al Coda|曲の最初まで戻ってコーダで飛ぶ|
 |9|D.C. al Fine|曲の最初まで戻ってFineで終わる|
 |10|D.C al 1st End.|曲の最初まで戻って1番かっこに行ってFineで終わる|
