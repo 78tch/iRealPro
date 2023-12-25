@@ -37,7 +37,7 @@
 |1|[小節のシミレ](./html/Simile.html)|<img src="images/simile.png" alt="image">|再生順：<br>「ABBB CDCD」<br>１小節を繰り返すには「%」、２小節を繰り返すには「x」。「%」は、1小節4マスの場合、2マス目に置くと収まりがよい。「x」は1小節目の最後のマス（拍）に置く。|
 |2|[N.C.（ノー・コード）](./html/Metronome.html)|<img src="images/Metronome.png" alt="image">|再生順：<br>「N.C.」が４小節<br>「N.C.」は「ノー・コード」のことで、音階楽器の音が鳴らない。いっぽうでドラムなどリズム楽器は鳴るので、結果的にメトロノームにできる。|
 |3|[反復記号](./html/Repeat.html)|<img src="images/repeat.png" alt="image">|再生順：<br>「ABAB」が3x<br>反復記号（右）まで行くと、反復記号（左）に戻る。曲の最初に戻る場合は、反復記号（左）は省略されることもある。「3x」により曲が3回繰り返される。<br>これにより、結果的に「AB」が合計6回演奏される。|
-|4|[3x](./html/Repeat.html)|<img src="images/Repeat3times.png" alt="image">|再生順：<br>「ABC BC BC D」<br>反復記号（右）まで行くと、反復記号（左）に戻る。反復記号（右）の下に「3x」とあることで、「BC」を3回繰り返す。|
+|4|[3x](./html/Repeat3times.html)|<img src="images/repeat3times.png" alt="image">|再生順：<br>「ABC BC BC D」<br>反復記号（右）まで行くと、反復記号（左）に戻る。反復記号（右）の下に「3x」とあることで、「BC」を3回繰り返す。|
 |5|[１番かっこ、２番かっこ](./html/1stEnding2ndEnding.html)|<img src="images/1stEnding2ndEnding.png" alt="image">|再生順：<br>「ABC BD BE 」が3x<br>最初は１番かっこの反復記号（右）まで演奏され、反復記号（左）に戻り、２回目に１番かっこの場所まできたら、２番かっこに飛び、反復記号（右）まで演奏されたら反復記号（左）に戻り、３回目に１番かっこの場所まできたら、３番かっこに飛ぶ。「3x」により、「ABC BD BE」が3回演奏される。|
 |5|[コーダ](./html/Coda.html)|<img src="images/Coda.png" alt="image">|再生順：<br>「ABC ABC ABD」<br>曲の繰り返しが3回に設定してあり、3回目の繰り返し（最後の繰り返しの時）で、コーダの場所からもうひとつのコーダの場所まで飛ぶ（B -> D）。繰り返しの１回目や２回目ではコーダは無視される。コーダを入れる場所は、Bは最後のマス（拍）、Dは小節の前のマス（拍）または１コマ（拍）目でも可。|
 |6|[D.C. al Coda](./html/DCalCoda.html)|<img src="images/DCalCoda.png" alt="image">|再生順：<br>「ABCD ABE」<br>D.C. で曲の最初に戻り、コーダの場所からもうひとつのコーダの場所まで飛ぶ。|
