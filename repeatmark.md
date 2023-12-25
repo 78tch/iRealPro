@@ -35,8 +35,8 @@
 「Mark」のリンク先のHTMLファイルは、「Download raw file」で保存すれば使えます。
 |No.|Mark|images|Memo|
 |---|---|---|---|
-|1|拍のシミレ||１小節のなかでコードチェンジしたい場合、２拍目、３拍目、４拍目によって|
-|2|[小節のシミレ](./html/Simile.html)|<img src="images/simile.png" alt="image">|再生順：<br>「ABBB CDCD」<br>１小節を繰り返すには「%」、２小節を繰り返すには「x」。「%」は、1小節4マスの場合、2マス目に置くと収まりがよい。「x」は1小節目の最後のマス（拍）に置く。|
+|1|拍のシミレ「/」||１小節のなかでコードチェンジしたい場合、２拍目、３拍目、４拍目によって|
+|2|[小節のシミレ](./html/Simile.html)「%」「x」|<img src="images/simile.png" alt="image">|再生順：<br>「ABBB CDCD」<br>１小節を繰り返すには「%」、２小節を繰り返すには「x」。「%」は、1小節4マスの場合、2マス目に置くと収まりがよい。「x」は1小節目の最後のマス（拍）に置く。|
 |3|[N.C.（ノー・コード）](./html/Metronome.html)|<img src="images/Metronome.png" alt="image">|再生順：<br>「N.C.」が４小節<br>「N.C.」は「ノー・コード」のことで、音階楽器の音が鳴らない。いっぽうでドラムなどリズム楽器は鳴るので、結果的にメトロノームにできる。|
 |4|[反復記号](./html/Repeat.html)|<img src="images/repeat.png" alt="image">|再生順：<br>「ABAB」が3x<br>反復記号（右）まで行くと、反復記号（左）に戻る。曲の最初に戻る場合は、反復記号（左）は省略されることもある。「3x」により曲が3回繰り返される。<br>これにより、結果的に「AB」が合計6回演奏される。|
 |5|[3x](./html/Repeat3times.html)|<img src="images/repeat3times.png" alt="image">|再生順：<br>「ABC BC BC D」<br>反復記号（右）まで行くと、反復記号（左）に戻る。反復記号（右）の下に「3x」とあることで、「BC」を3回繰り返す。|
