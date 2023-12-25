@@ -32,6 +32,7 @@
 
 
 ## 2.繰り返し記号による進行の例
+「Mark」のリンク先のHTMLファイルは、「Download raw file」で保存すれば使えます。
 |No.|Mark|images|Memo|
 |---|---|---|---|
 |1|[小節のシミレ](./html/Simile.html)|<img src="images/simile.png" alt="image">|再生順：<br>「ABBB CDCD」<br>１小節を繰り返すには「%」、２小節を繰り返すには「x」。「%」は、1小節4マスの場合、2マス目に置くと収まりがよい。「x」は1小節目の最後のマス（拍）に置く。|
