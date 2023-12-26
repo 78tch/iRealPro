@@ -41,7 +41,7 @@
 |15|Jazz|Gypsy Jazz|クラシックギター|||
 |16|Jazz|Latin|||||
 |17|Jazz|Latin/Swing|||||
-|18|Jazz|Long Notes|弦楽器、ピアノ|弦楽器|ドラム||
+|18|Jazz|Long Notes|弦楽器、ピアノ|弦楽器|||
 |19|Jazz|Medium Swing||||Medium Swing|
 |20|Jazz|Medium Up Swing||||Medium Up Swing|
 |21|Jazz|Medium Up Swing 2|||||
