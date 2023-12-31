@@ -11,11 +11,15 @@
 ライブラリー「曲」画面に移り、虫眼鏡で、セッション曲を検索する。  
 目的の曲が見つかったら、プレイリスト「セッション曲」に追加する。
 曲が十分追加できたら、プレイリストを開いて、共有メニューから「iRealPro形式」で保存すると、複数曲の楽譜が入ったHTMLファイルが保存されるので、バックアップしたり、人と共有するとよい。  
+※「Main Playlist」にはなかった曲「4.Cissy Strut」と「13.Strasbourg/St.Denis」の２曲は、Forum で個別に検索してダウンロードした。  
   
 ## 3.セッション曲
+iRealPro形式のHTMLを[ここ](
+https://drive.google.com/drive/folders/1bncI0H9OC7B14ZMmrFaEEAesZxUTxlDg?usp=sharing)に置いています。  
+  
 |No.|曲名|BPM|キー|初期スタイル|再生時推奨スタイル|推奨ミキサー設定|
 |---|---|---|---|---|---|---|
-|1|Cantaloupe Island|115|Fm|Pop-Rock|||
+|1|Cantaloupe Island|115|Fm|Pop-Rock|今後模索|今後模索|
 |2|Chameleon|140|B♭m|Pop-Funk|||
 |3|The Chicken|140|B♭|Pop-Funk|||
 |4|Cissy Strut|115|Cm|Pop-Rock|||
@@ -29,7 +33,7 @@
 |12|What's Going On|95|E|Pop-Soul|||
 |13|Strasbourg/St.Denis|100|B♭|Pop-Smooth|||
   
-※「Main Playlist」にはなかった曲「4.Cissy Strut」と「13.Strasbourg/St.Denis」の２曲は、Forum で個別に検索してダウンロードした。
+
   
 
 [戻る](./README.md) 
