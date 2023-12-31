@@ -7,6 +7,7 @@
 2. 繰り返し記号や実際の進行の例の一覧は[こちら](./repeatmark.md)
 3. 最初から入っている「練習曲50曲」の一覧は[こちら](./library.md)
 4. 曲調の「スタイル」の一覧は[こちら](./styles.md)
+5. Forumからセッション曲をダウンロードして、プレイリストにする方法は[こちら](./session.md)
 
 ## 1.概要
 1. App Store版（iPhone&iPad用）、Google Play版（Android 用）、amazon appstore版（Fire タブレット、Windows用）、Mac 用、の４種類があります。これらは、購入情報が共有されないので、それぞれ個別に買う必要があります。
